@@ -1,4 +1,4 @@
-# object-oriented-fundamentals-assignment-2023
+# object-oriented-project-converter
 Converts to Hexaicosadecimal numbers
 
 Author: Sebastien Dundas  
